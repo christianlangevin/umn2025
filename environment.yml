@@ -1,0 +1,38 @@
+name: umn25
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - contextily
+  - descartes
+  - fiona
+  - flopy
+  - folium
+  - git
+  - geopandas
+  - geos
+  - geojson
+  - imageio
+  - jupyter
+  - jupytext
+  - jupyterlab
+  - modflowapi
+  - h5py
+  - netcdf4
+  - openpyxl
+  - pip
+  - pymetis
+  - pytest
+  - pyvista
+  - pyyaml
+  - rasterio
+  - rasterstats
+  - requests
+  - rioxarray
+  - rtree
+  - statsmodels
+  - uxarray
+  - vtk
+  - xarray
+  - xugrid
+  - xlrd
