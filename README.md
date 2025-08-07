@@ -1,7 +1,7 @@
 ![alt](images/header.png)
 
 # MODFLOW Workshop
-MODFLOW workshop materials for [Hydrogeology Field Camp](https://sites.google.com/a/umn.edu/hydrogeology-field-camp/), ESci 4971W/5971, University of Minnesota
+MODFLOW workshop materials for [Hydrogeology Field Camp](https://sites.google.com/umn.edu/hydrocamp), ESci 4971W/5971, University of Minnesota
 
 ## Date and Location
 * August 11, 2025, 1:00 PM -- 4:00 PM
