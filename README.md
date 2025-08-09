@@ -14,7 +14,7 @@ The purpose of this half-day introductory workshop is to help hydrogeologists ge
 This workshop is a brief introduction to MODFLOW for undergraduate and graduate students.  No previous experience with Python is required, however, participants without any Python experience may benefit from additional preparation prior to the class.
 
 ## Workshop Instructor
-* [Christian Langevin, S.S. Papdopulos & Associates](https://sspa.com/christian-langevin-phd/)
+* [Christian Langevin, S.S. Papadopulos & Associates](https://sspa.com/christian-langevin-phd/)
 
 ## Topics
 * MODFLOW Overview
